@@ -1,2 +1,3 @@
-# com.boghammar.homey
-Playground for Homey apps
+# My App
+
+Adds support for MyBrand devices.
