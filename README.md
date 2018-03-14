@@ -1,3 +1,3 @@
 # My App
 
-Adds support for MyBrand devices.
+Homey app playground for me. Just to learn.
